@@ -82,21 +82,16 @@ body{
     width:50%;
 }
 .mission{
-    background-color: rgb(219, 231, 231);
-    
-    
-    
+    background-color: rgb(219, 231, 231);   
 }
 
 .vission{
-     background-color: rgb(255, 215, 222);
-     
+     background-color: rgb(255, 215, 222);    
 }
 
 
 .goals{
-    background-color: rgb(252, 252, 197);
-    
+    background-color: rgb(252, 252, 197);  
 }
 
 .coding{
@@ -145,4 +140,13 @@ body{
 
 #f2{
     color: tomato;
+}
+
+#new{
+    text-align: center;
+}
+
+.creativity{
+    width: 50%;
+    padding: 5%;
 }
