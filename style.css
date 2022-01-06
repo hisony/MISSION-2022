@@ -1,0 +1,148 @@
+#start{
+    font-family: 'Playfair Display', serif;
+    border-left: 3px solid;
+    border-radius: 3px;
+    padding-left: 5px;
+    padding-bottom: 0;
+    padding-top: 0;
+    border-color: salmon;
+    font-size: x-large;
+    
+}
+.second{
+    color: sandybrown;
+}
+body{
+
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    color:white;
+    padding: 10px 30px;
+    font-size: small;
+    border-radius: 5px;
+}
+
+.space{
+    line-height: 70px;
+}
+
+.flexible-container{
+    display: flex;
+
+}
+
+.half-width{
+    width: 50%;
+    padding:2%;
+}
+
+.half-width img{
+    width: 50%;
+}
+.blue{
+    color: rgb(16, 16, 71);
+    font-weight: 1000;
+    font-size: xx-large;
+    font-family: 'Fjalla One', sans-serif;
+    font-stretch: extra-condensed;
+}
+
+.sandybrown{
+    font-size: xx-large;
+    color: sandybrown;
+    font-weight: 1000;
+    font-stretch: extra-expanded;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+#a{
+    text-align: center;
+}
+
+
+
+.box{
+    width:30%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px white ;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 10px;
+    padding:2%;
+    height: 350px;
+
+}
+.box img{
+    width:50%;
+}
+.mission{
+    background-color: rgb(219, 231, 231);
+    
+    
+    
+}
+
+.vission{
+     background-color: rgb(255, 215, 222);
+     
+}
+
+
+.goals{
+    background-color: rgb(252, 252, 197);
+    
+}
+
+.coding{
+    width: 50%;
+    padding:5% ;
+}
+
+.coding img{
+    width: 50%;
+
+}
+
+.half-circle{
+
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 150px;
+}
+
+
+
+.circle{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
+}
+
+.project{
+    width: 50%;
+    padding:5% ;
+}
+
+.project img{
+    width:50%;
+    padding-left: 50%;
+}
+
+.f{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Island Moments', cursive;
+}
+
+#f2{
+    color: tomato;
+}
